@@ -7,7 +7,7 @@
 
 ## 🌐 Portfolio
 
-👉 [Visit My Portfolio](https://mohammedyaseer702.github.io/portfolio/)
+👉 [Visit My Portfolio](https://portfolio-ten-ruddy-90.vercel.app/)
 
 ---
 
@@ -33,8 +33,13 @@
   * Admin dashboard
 * Tech: Spring Boot + React + Stripe
 
-👉 GitHub Repo:
-https://github.com/mohammedyaseer702/Ecommerce-Web-App
+Live Deploy:
+
+https://ecommerce-web-app-tctl.vercel.app/
+
+For Admin: User=mohammedyaseer702@gmail.com password=Damian@John07
+For User: You can register yourself
+
 
 ---
 
